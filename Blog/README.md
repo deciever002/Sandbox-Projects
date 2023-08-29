@@ -2,12 +2,6 @@
 
 Welcome to the HTML Blog documentation! This repository contains all the resources and information you need to understand the fundamental concepts of HTML (Hypertext Markup Language). Whether you're a beginner looking to grasp the basics or someone looking to refresh their knowledge, this blog is here to help you navigate through the world of web development using HTML.
 
-Live at: https://deciever002.github.io/Blog/
-
-Snapshots
-
-![image](https://github.com/deciever002/Blog/assets/112121338/04ca5b3f-054a-4eba-b2d4-96149942ed7b)
-
 
 ## Table of Contents
 
